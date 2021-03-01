@@ -1,2 +1,2 @@
-# file_segregator
-Arrange files into folders based on their type
+# File Organizer
+Organizes files of a given directory based on their type.
